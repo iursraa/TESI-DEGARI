@@ -1,6 +1,6 @@
 # if used in testing from inside the lib folder, the first import throws an exception
 try:
-    import lib.ontology_manager as om
+    from lib import ontology_manager as om
 except:
     import ontology_manager as om
 
