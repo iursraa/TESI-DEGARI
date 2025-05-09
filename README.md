@@ -1,4 +1,5 @@
-DEGARI:  Dynamic Emotion Generator And ReclassIfier
+# DEGARI:  Dynamic Emotion Generator And ReclassIfier
+
 A Python tool for dynamic generation of knowledge in Description Logics of 
 Typicality tested in the contexts of RaiPlay, WikiArt Emotions and ArsMeteo
 ------------------------------------------------------------------------------------------
