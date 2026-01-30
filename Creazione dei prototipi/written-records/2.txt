@@ -1,0 +1,16 @@
+nobody:               1000000.0
+feel:                 0.6
+like:                 0.6
+standing:             0.6
+outside:              0.6
+life:                 0.6
+talk:                 0.6
+see:                  0.6
+unless:               0.6
+force:                0.6
+every:                0.6
+day:                  0.6
+wake:                 0.6
+think:                0.6
+today:                0.6
+matter:               0.6

@@ -1,0 +1,11 @@
+careful:              1000000
+let:                  1000000
+around:               1000000
+people:               1000000
+seem:                 1000000
+feel:                 1000000
+must:                 1000000
+manage:               1000000
+everything:           1000000
+avoid:                1000000
+trouble:              1000000

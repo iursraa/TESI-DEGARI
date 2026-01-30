@@ -105,8 +105,9 @@ def writeWordInFile(file, word, value):
 #       VAR GLOBALI                                 #
 #####################################################
 #####################################################
-language = "it"
+language = "en"
 
+# @TODO turn them into english versions
 prepositions = ["di", "a", "da", "in", "su",
                 "il", "del", "al", "dal", "nel", "sul",
                 "lo", "dello", "allo", "dallo", "nello", "sullo",
@@ -131,7 +132,7 @@ congiuntions = ["a", "a meno che", "acciocché", "adunque", "affinché", "allora
                 "semmai", "senza", "seppure", "sia", "siccome", "solamente", "soltanto",
                 "sì", "talché", "tuttavia"]
 punctuation = list(string.punctuation) + ["...", "``"]
-stop_words = stopwords.words('italian')  # le stop_words sono prese dalla libreria nltk (sono parole da non considerare)
+stop_words = stopwords.words('english')  # le stop_words sono prese dalla libreria nltk (sono parole da non considerare)
 remove_words = prepositions + articles + congiuntions + punctuation + stop_words  # tutte le parole da evitare
 chars_not_allowed_in_filename = ['\\', '/', ':', '*', '?', '"', '<', '>', '|']
 

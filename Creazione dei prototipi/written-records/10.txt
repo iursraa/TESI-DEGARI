@@ -1,0 +1,8 @@
+become:               1000000.0
+suffering:            0.6
+flame:                0.6
+burn:                 0.6
+without:              0.6
+consuming:            0.6
+ash:                  0.6
+transparent:          0.6

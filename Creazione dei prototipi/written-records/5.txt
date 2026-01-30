@@ -1,0 +1,12 @@
+feel:                 999999.9999999999
+like:                 999999.9999999999
+smile:                999999.9999999999
+sometimes:            0.6
+part:                 0.6
+anything:             0.6
+people:               0.6
+back:                 0.6
+act:                  0.6
+try:                  0.6
+normal:               0.6
+last:                 0.6

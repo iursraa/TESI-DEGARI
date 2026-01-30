@@ -1,0 +1,13 @@
+barracks:             1000000
+cold:                 1000000
+wake:                 1000000
+dawn:                 1000000
+watch:                1000000
+man:                  1000000
+work:                 1000000
+today:                1000000
+talk:                 1000000
+silent:               1000000
+could:                1000000
+tell:                 1000000
+unhappy:              1000000

@@ -1,0 +1,11 @@
+live:                 999999.9999999999
+law:                  999999.9999999999
+outside:              0.6
+never:                0.6
+seek:                 0.6
+pity:                 0.6
+want:                 0.6
+explain:              0.6
+feel:                 0.6
+misunderstand:        0.6
+even:                 0.6

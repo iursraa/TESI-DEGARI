@@ -1,0 +1,17 @@
+feel:                 1000000
+like:                 1000000
+black:                1000000
+cloud:                1000000
+time:                 1000000
+try:                  1000000
+say:                  1000000
+go:                   1000000
+word:                 1000000
+come:                 1000000
+right:                1000000
+people:               1000000
+think:                1000000
+quiet:                1000000
+mind:                 1000000
+loud:                 1000000
+confuse:              1000000
