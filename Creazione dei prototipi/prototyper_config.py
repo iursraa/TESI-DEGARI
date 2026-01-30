@@ -2,6 +2,21 @@
 # Here are specified the features of a dataset in order to generate its artworks prototypes
 
 
+# confifiguration for the criminal artworks and diaries
+
+# name of json description file for input
+jsonDescrFile = "written-records.json"
+
+# instance's artwork identifier attribute in json description file
+instanceID = "id"
+
+# list of instance description attributes in json description file
+instanceDescr = ["text"]
+
+# output folder path
+outPath = "written-records/"
+
+"""
 # configuration for WikiArt dataset
 
 # name of json description file for input
@@ -15,7 +30,7 @@ instanceDescr = ["Description"]
 
 # output folder path
 outPath = "wikiart_for_cocos/"
-
+"""
 
 """
 # configuration for ArsMeteo dataset
