@@ -1,7 +1,6 @@
-feel:                 1000000.0
+feel:                 0.9
 trap:                 0.6
 house:                0.6
-like:                 0.6
 world:                0.6
 lock:                 0.6
 outside:              0.6
