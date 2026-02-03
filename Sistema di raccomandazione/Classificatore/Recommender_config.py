@@ -2,6 +2,26 @@
 # Here are specified the features of a dataset in order to generate its recommendations
 
 
+# configuration for records dataset
+
+# name of json description file for input
+jsonDescrFile = "../../Creazione dei prototipi/written-records.json"
+
+# artwork identifier attribute in json description file, corresponding to a prototype file name in protPath
+instanceID = "id"
+
+# instance title attributes in json description file
+# the first attribute is the artwork instance's title, followed by other main features
+instanceTitle = ["title"]
+
+# list of instance description attributes in json description file
+instanceDescr = ["text"]
+
+# prototypes folder path
+protPath = "records_for_cocos/"
+
+
+"""
 # configuration for WikiArt dataset
 
 # name of json description file for input
@@ -20,6 +40,7 @@ instanceDescr = ["Description"]
 # prototypes folder path
 protPath = "wikiart_for_cocos/"
 
+"""
 
 """
 # configuration for ArsMeteo dataset
