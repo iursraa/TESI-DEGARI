@@ -5,7 +5,7 @@
 # confifiguration for the criminal artworks and diaries
 
 # name of json description file for input
-jsonDescrFile = "written-records.json"
+jsonDescrFile = "written_records.json"
 
 # instance's artwork identifier attribute in json description file
 instanceID = "id"
@@ -14,7 +14,7 @@ instanceID = "id"
 instanceDescr = ["text"]
 
 # output folder path
-outPath = "written-records/"
+outPath = "written_records/"
 
 """
 # configuration for WikiArt dataset

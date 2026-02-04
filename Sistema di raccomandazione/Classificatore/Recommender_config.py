@@ -18,7 +18,7 @@ instanceTitle = ["title"]
 instanceDescr = ["text"]
 
 # prototypes folder path
-protPath = "records_for_cocos/"
+protPath = "../../Creazione dei prototipi/written_records/"
 
 
 """
