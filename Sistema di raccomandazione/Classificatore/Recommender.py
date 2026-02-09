@@ -133,7 +133,8 @@ if __name__ == '__main__' :
         print("\nRecommendation for category: " + category + "\n\nCategory prototype: \n")
         
         #Trasformazione risultato stringa in lista
-        r = [str(s) for s in f.result.split(',')]     
+        clean_result = f.result.replace('[', '').replace(']', '').replace("'", "")
+        r = [str(s) for s in clean_result.split(',')]
 
         #Lista delle proprietà risultato forti + tipiche
         prop_list = []
@@ -149,7 +150,7 @@ if __name__ == '__main__' :
         #Inserimento proprietà tipiche estratte dal risultato di COCOS
         i = 0
         for p in f.tipical_attrs:
-            if r[i].strip() == "'1'":
+            if r[i].strip() == '1':
                 prop_list.append(p)
             i+=1
         pprint(prop_list)

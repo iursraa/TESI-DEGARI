@@ -1,0 +1,16 @@
+Title: alienation-sadness
+
+Head Concept Name: alienation
+Modifier Concept Name: sadness
+
+modifier, -joy
+
+T(head), quiet, 0.95
+T(head), disappear, 0.95
+T(head), nobody, 0.90
+T(head), trap, 0.90
+T(head), black, 0.85
+T(head), loud, 0.85
+T(head), cloud, 0.80
+
+Result: '1', '1', '1', '1', '1', '1', '1', 0.99
