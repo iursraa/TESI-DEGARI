@@ -89,8 +89,8 @@ def elaboraGraduatoria(prop_list, not_prop_list = []) :
                     matches.clear()
                     break
             
-            #Un'istanza è considerata se contiene almeno il 30% delle proprietà della lista
-            if int(len(matches)) >= int(len(prop_list)*30/100):
+            #Un'istanza è considerata se contiene almeno il 10% delle proprietà della lista
+            if int(len(matches)) >= int(len(prop_list)*10/100):
                 lista_istanze.append([instance[cfg.instanceID] + " - " + instance[cfg.instanceTitle[0]],
                                         "\n\t\\-> matches: " + str(matches)])
             elif int(len(matches)) == 0:

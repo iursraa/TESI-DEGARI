@@ -107,29 +107,6 @@ def writeWordInFile(file, word, value):
 #####################################################
 language = "en"
 
-# prepositions = ["di", "a", "da", "in", "su",
-#                 "il", "del", "al", "dal", "nel", "sul",
-#                 "lo", "dello", "allo", "dallo", "nello", "sullo",
-#                 "la", "della", "alla", "dalla", "nella", "sulla",
-#                 "l’", "dell’", "all’", "dall’", "nell’", "sull’",
-#                 "i", "dei", "ai", "dai", "nei", "sui",
-#                 "gli", "degli", "agli", "dagli", "negli", "sugli",
-#                 "le", "delle", "alle", "dalle", "nelle", "sulle"]
-# articles = ["il", "lo", "la", "i", "gli", "le", "un", "un'", "uno", "una"]
-# congiuntions = ["a", "a meno che", "acciocché", "adunque", "affinché", "allora",
-#                 "allorché", "allorquando", "altrimenti", "anche", "anco", "ancorché",
-#                 "anzi", "anziché", "appena", "avvegna che", "avvegnaché", "avvegnadioché",
-#                 "avvengaché", "avvengadioché", "benché", "bensi", "bensì", "che", "ché",
-#                 "ciononostante", "comunque", "conciossiaché", "conciossiacosaché", "cosicché",
-#                 "difatti", "donde", "dove", "dunque", "e", "ebbene", "ed", "embè", "eppure",
-#                 "essendoché", "eziando", "fin", "finché", "frattanto", "giacché", "giafossecosaché",
-#                 "imperocché", "infatti", "infine", "intanto", "invece", "laonde", "ma", "magari",
-#                 "malgrado", "mentre", "neanche", "neppure", "no", "nonché", "nonostante", "né", "o",
-#                 "ogniqualvolta", "onde", "oppure", "ora", "orbene", "ossia", "ove", "ovunque",
-#                 "ovvero", "perché", "perciò", "pero", "perocché", "pertanto", "però", "poiché",
-#                 "poscia", "purché", "pure", "qualora", "quando", "quindi", "se", "sebbene",
-#                 "semmai", "senza", "seppure", "sia", "siccome", "solamente", "soltanto",
-#                 "sì", "talché", "tuttavia"]
 
 prepositions = ["of", "in", "to", "for", "with", "on", "at", "from", "by", "about",
                 "as", "into", "like", "through", "after", "over", "between", "out",

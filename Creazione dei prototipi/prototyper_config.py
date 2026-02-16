@@ -5,7 +5,7 @@
 # confifiguration for the criminal artworks and diaries
 
 # name of json description file for input
-jsonDescrFile = "written_records.json"
+jsonDescrFile = "written-records.json"
 
 # instance's artwork identifier attribute in json description file
 instanceID = "id"
