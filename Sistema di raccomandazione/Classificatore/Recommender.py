@@ -10,7 +10,7 @@ from DataFromInput import *
 
 #Controlla se una parola(w) e' contenuta in una stringa(s)
 def contains_word(s, w):
-    return ((' ' + str(w) + ' ') in (' ' + str(s) + ' ')) or ((' ' + str(w) + ',') in (' ' + str(s) + ' '))
+    return str(w) in str(s)
 
 def contains_value(lista, w):
     for p in lista:

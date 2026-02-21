@@ -1478,3 +1478,1500 @@ Aileen_Wuornos_Last_Words - Courtroom Statements and Interviews	anger_disgust.tx
 6 - Building to Violence	anticipation_disgust.txt
 6 - Building to Violence	fear_sadness.txt
 4 - The Truth about Primitive Life	fear_sadness.txt
+6 - Building to Violence	prototipi\aggressiveness-anger_anticipation
+8 - November_1969_sermon	prototipi\aggressiveness-anger_anticipation
+3 - memoir	prototipi\aggressiveness-anger_anticipation
+6 - Building to Violence	prototipi\aggressiveness-anticipation_anger
+8 - November_1969_sermon	prototipi\aggressiveness-anticipation_anger
+3 - memoir	prototipi\aggressiveness-anticipation_anger
+6 - Building to Violence	prototipi\anxiety-anticipation_fear
+8 - November_1969_sermon	prototipi\anxiety-anticipation_fear
+8 - November_1969_sermon	prototipi\anxiety-anticipation_fear
+9 - 1970 Trial Testimony	prototipi\anxiety-anticipation_fear
+4 - The Truth about Primitive Life	prototipi\anxiety-anticipation_fear
+6 - Building to Violence	prototipi\anxiety-fear_anticipation
+8 - November_1969_sermon	prototipi\anxiety-fear_anticipation
+8 - November_1969_sermon	prototipi\anxiety-fear_anticipation
+9 - 1970 Trial Testimony	prototipi\anxiety-fear_anticipation
+4 - The Truth about Primitive Life	prototipi\anxiety-fear_anticipation
+6 - Building to Violence	prototipi\awe-fear_surprise
+8 - November_1969_sermon	prototipi\awe-fear_surprise
+8 - November_1969_sermon	prototipi\awe-fear_surprise
+9 - 1970 Trial Testimony	prototipi\awe-fear_surprise
+4 - The Truth about Primitive Life	prototipi\awe-fear_surprise
+6 - Building to Violence	prototipi\awe-surprise_fear
+8 - November_1969_sermon	prototipi\awe-surprise_fear
+8 - November_1969_sermon	prototipi\awe-surprise_fear
+9 - 1970 Trial Testimony	prototipi\awe-surprise_fear
+4 - The Truth about Primitive Life	prototipi\awe-surprise_fear
+6 - Building to Violence	prototipi\contempt-anger_disgust
+8 - November_1969_sermon	prototipi\contempt-anger_disgust
+3 - memoir	prototipi\contempt-anger_disgust
+6 - Building to Violence	prototipi\contempt-disgust_anger
+8 - November_1969_sermon	prototipi\contempt-disgust_anger
+3 - memoir	prototipi\contempt-disgust_anger
+6 - Building to Violence	prototipi\despair-fear_sadness
+8 - November_1969_sermon	prototipi\despair-fear_sadness
+6 - Building to Violence	prototipi\despair-sadness_fear
+8 - November_1969_sermon	prototipi\despair-sadness_fear
+6 - Building to Violence	prototipi\dominance-anger_trust
+8 - November_1969_sermon	prototipi\dominance-anger_trust
+3 - memoir	prototipi\dominance-anger_trust
+6 - Building to Violence	prototipi\dominance-trust_anger
+8 - November_1969_sermon	prototipi\dominance-trust_anger
+3 - memoir	prototipi\dominance-trust_anger
+6 - Building to Violence	prototipi\envy-anger_sadness
+8 - November_1969_sermon	prototipi\envy-anger_sadness
+3 - memoir	prototipi\envy-anger_sadness
+6 - Building to Violence	prototipi\guilt-fear_joy
+8 - November_1969_sermon	prototipi\guilt-fear_joy
+6 - Building to Violence	prototipi\guilt-joy_fear
+8 - November_1969_sermon	prototipi\guilt-joy_fear
+6 - Building to Violence	prototipi\outrage-anger_surprise
+8 - November_1969_sermon	prototipi\outrage-anger_surprise
+3 - memoir	prototipi\outrage-anger_surprise
+6 - Building to Violence	prototipi\outrage-surprise_anger
+8 - November_1969_sermon	prototipi\outrage-surprise_anger
+3 - memoir	prototipi\outrage-surprise_anger
+6 - Building to Violence	prototipi\shame-disgust_fear
+8 - November_1969_sermon	prototipi\shame-disgust_fear
+8 - November_1969_sermon	prototipi\shame-disgust_fear
+9 - 1970 Trial Testimony	prototipi\shame-disgust_fear
+4 - The Truth about Primitive Life	prototipi\shame-disgust_fear
+6 - Building to Violence	prototipi\shame-fear_disgust
+8 - November_1969_sermon	prototipi\shame-fear_disgust
+8 - November_1969_sermon	prototipi\shame-fear_disgust
+9 - 1970 Trial Testimony	prototipi\shame-fear_disgust
+4 - The Truth about Primitive Life	prototipi\shame-fear_disgust
+6 - Building to Violence	prototipi\submission-fear_trust
+8 - November_1969_sermon	prototipi\submission-fear_trust
+8 - November_1969_sermon	prototipi\submission-fear_trust
+9 - 1970 Trial Testimony	prototipi\submission-fear_trust
+4 - The Truth about Primitive Life	prototipi\submission-fear_trust
+6 - Building to Violence	prototipi\submission-trust_fear
+8 - November_1969_sermon	prototipi\submission-trust_fear
+8 - November_1969_sermon	prototipi\submission-trust_fear
+9 - 1970 Trial Testimony	prototipi\submission-trust_fear
+4 - The Truth about Primitive Life	prototipi\submission-trust_fear
+6 - Building to Violence	prototipi_10_termini\anger_anticipation.txt
+3 - memoir	prototipi_10_termini\anger_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\anger_disgust.txt
+3 - memoir	prototipi_10_termini\anger_disgust.txt
+6 - Building to Violence	prototipi_10_termini\anger_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\anger_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\anger_fear.txt
+6 - Building to Violence	prototipi_10_termini\anger_joy.txt
+8 - November_1969_sermon	prototipi_10_termini\anger_joy.txt
+3 - memoir	prototipi_10_termini\anger_joy.txt
+6 - Building to Violence	prototipi_10_termini\anger_sadness.txt
+3 - memoir	prototipi_10_termini\anger_sadness.txt
+6 - Building to Violence	prototipi_10_termini\anger_surprise.txt
+3 - memoir	prototipi_10_termini\anger_surprise.txt
+6 - Building to Violence	prototipi_10_termini\anger_trust.txt
+3 - memoir	prototipi_10_termini\anger_trust.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_anger.txt
+3 - memoir	prototipi_10_termini\anticipation_anger.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_disgust.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\anticipation_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\anticipation_fear.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_sadness.txt
+6 - Building to Violence	prototipi_10_termini\disgust_anger.txt
+3 - memoir	prototipi_10_termini\disgust_anger.txt
+6 - Building to Violence	prototipi_10_termini\disgust_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\disgust_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\disgust_fear.txt
+6 - Building to Violence	prototipi_10_termini\disgust_sadness.txt
+6 - Building to Violence	prototipi_10_termini\disgust_trust.txt
+6 - Building to Violence	prototipi_10_termini\fear_anger.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_anger.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_anger.txt
+6 - Building to Violence	prototipi_10_termini\fear_anticipation.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_anticipation.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\fear_disgust.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_disgust.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_disgust.txt
+6 - Building to Violence	prototipi_10_termini\fear_joy.txt
+6 - Building to Violence	prototipi_10_termini\fear_sadness.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_sadness.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_sadness.txt
+6 - Building to Violence	prototipi_10_termini\fear_surprise.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_surprise.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_surprise.txt
+6 - Building to Violence	prototipi_10_termini\fear_trust.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_trust.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_trust.txt
+6 - Building to Violence	prototipi_10_termini\joy_anger.txt
+8 - November_1969_sermon	prototipi_10_termini\joy_anger.txt
+3 - memoir	prototipi_10_termini\joy_anger.txt
+6 - Building to Violence	prototipi_10_termini\joy_fear.txt
+6 - Building to Violence	prototipi_10_termini\sadness_anger.txt
+3 - memoir	prototipi_10_termini\sadness_anger.txt
+6 - Building to Violence	prototipi_10_termini\sadness_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\sadness_disgust.txt
+6 - Building to Violence	prototipi_10_termini\sadness_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\sadness_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\sadness_fear.txt
+6 - Building to Violence	prototipi_10_termini\sadness_surprise.txt
+6 - Building to Violence	prototipi_10_termini\sadness_trust.txt
+6 - Building to Violence	prototipi_10_termini\surprise_anger.txt
+3 - memoir	prototipi_10_termini\surprise_anger.txt
+6 - Building to Violence	prototipi_10_termini\surprise_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\surprise_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\surprise_fear.txt
+6 - Building to Violence	prototipi_10_termini\surprise_sadness.txt
+6 - Building to Violence	prototipi_10_termini\trust_anger.txt
+3 - memoir	prototipi_10_termini\trust_anger.txt
+6 - Building to Violence	prototipi_10_termini\trust_disgust.txt
+6 - Building to Violence	prototipi_10_termini\trust_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\trust_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\trust_fear.txt
+6 - Building to Violence	prototipi_10_termini\trust_sadness.txt
+6 - Building to Violence	prototipi_10_termini\anger_anticipation.txt
+3 - memoir	prototipi_10_termini\anger_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\anger_disgust.txt
+3 - memoir	prototipi_10_termini\anger_disgust.txt
+6 - Building to Violence	prototipi_10_termini\anger_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\anger_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\anger_fear.txt
+6 - Building to Violence	prototipi_10_termini\anger_joy.txt
+8 - November_1969_sermon	prototipi_10_termini\anger_joy.txt
+3 - memoir	prototipi_10_termini\anger_joy.txt
+6 - Building to Violence	prototipi_10_termini\anger_sadness.txt
+3 - memoir	prototipi_10_termini\anger_sadness.txt
+6 - Building to Violence	prototipi_10_termini\anger_surprise.txt
+3 - memoir	prototipi_10_termini\anger_surprise.txt
+6 - Building to Violence	prototipi_10_termini\anger_trust.txt
+3 - memoir	prototipi_10_termini\anger_trust.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_anger.txt
+3 - memoir	prototipi_10_termini\anticipation_anger.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_disgust.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\anticipation_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\anticipation_fear.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_sadness.txt
+6 - Building to Violence	prototipi_10_termini\disgust_anger.txt
+3 - memoir	prototipi_10_termini\disgust_anger.txt
+6 - Building to Violence	prototipi_10_termini\disgust_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\disgust_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\disgust_fear.txt
+6 - Building to Violence	prototipi_10_termini\disgust_sadness.txt
+6 - Building to Violence	prototipi_10_termini\disgust_trust.txt
+6 - Building to Violence	prototipi_10_termini\fear_anger.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_anger.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_anger.txt
+6 - Building to Violence	prototipi_10_termini\fear_anticipation.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_anticipation.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\fear_disgust.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_disgust.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_disgust.txt
+6 - Building to Violence	prototipi_10_termini\fear_joy.txt
+6 - Building to Violence	prototipi_10_termini\fear_sadness.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_sadness.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_sadness.txt
+6 - Building to Violence	prototipi_10_termini\fear_surprise.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_surprise.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_surprise.txt
+6 - Building to Violence	prototipi_10_termini\fear_trust.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_trust.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_trust.txt
+6 - Building to Violence	prototipi_10_termini\joy_anger.txt
+8 - November_1969_sermon	prototipi_10_termini\joy_anger.txt
+3 - memoir	prototipi_10_termini\joy_anger.txt
+6 - Building to Violence	prototipi_10_termini\joy_fear.txt
+6 - Building to Violence	prototipi_10_termini\sadness_anger.txt
+3 - memoir	prototipi_10_termini\sadness_anger.txt
+6 - Building to Violence	prototipi_10_termini\sadness_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\sadness_disgust.txt
+6 - Building to Violence	prototipi_10_termini\sadness_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\sadness_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\sadness_fear.txt
+6 - Building to Violence	prototipi_10_termini\sadness_surprise.txt
+6 - Building to Violence	prototipi_10_termini\sadness_trust.txt
+6 - Building to Violence	prototipi_10_termini\surprise_anger.txt
+3 - memoir	prototipi_10_termini\surprise_anger.txt
+6 - Building to Violence	prototipi_10_termini\surprise_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\surprise_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\surprise_fear.txt
+6 - Building to Violence	prototipi_10_termini\surprise_sadness.txt
+6 - Building to Violence	prototipi_10_termini\trust_anger.txt
+3 - memoir	prototipi_10_termini\trust_anger.txt
+6 - Building to Violence	prototipi_10_termini\trust_disgust.txt
+6 - Building to Violence	prototipi_10_termini\trust_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\trust_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\trust_fear.txt
+6 - Building to Violence	prototipi_10_termini\trust_sadness.txt
+6 - Building to Violence	prototipi_10_termini\anger_anticipation.txt
+3 - memoir	prototipi_10_termini\anger_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\anger_disgust.txt
+3 - memoir	prototipi_10_termini\anger_disgust.txt
+6 - Building to Violence	prototipi_10_termini\anger_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\anger_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\anger_fear.txt
+6 - Building to Violence	prototipi_10_termini\anger_joy.txt
+8 - November_1969_sermon	prototipi_10_termini\anger_joy.txt
+3 - memoir	prototipi_10_termini\anger_joy.txt
+6 - Building to Violence	prototipi_10_termini\anger_sadness.txt
+3 - memoir	prototipi_10_termini\anger_sadness.txt
+6 - Building to Violence	prototipi_10_termini\anger_surprise.txt
+3 - memoir	prototipi_10_termini\anger_surprise.txt
+6 - Building to Violence	prototipi_10_termini\anger_trust.txt
+3 - memoir	prototipi_10_termini\anger_trust.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_anger.txt
+3 - memoir	prototipi_10_termini\anticipation_anger.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_disgust.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\anticipation_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\anticipation_fear.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_sadness.txt
+6 - Building to Violence	prototipi_10_termini\disgust_anger.txt
+3 - memoir	prototipi_10_termini\disgust_anger.txt
+6 - Building to Violence	prototipi_10_termini\disgust_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\disgust_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\disgust_fear.txt
+6 - Building to Violence	prototipi_10_termini\disgust_sadness.txt
+6 - Building to Violence	prototipi_10_termini\disgust_trust.txt
+6 - Building to Violence	prototipi_10_termini\fear_anger.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_anger.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_anger.txt
+6 - Building to Violence	prototipi_10_termini\fear_anticipation.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_anticipation.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\fear_disgust.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_disgust.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_disgust.txt
+6 - Building to Violence	prototipi_10_termini\fear_joy.txt
+6 - Building to Violence	prototipi_10_termini\fear_sadness.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_sadness.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_sadness.txt
+6 - Building to Violence	prototipi_10_termini\fear_surprise.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_surprise.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_surprise.txt
+6 - Building to Violence	prototipi_10_termini\fear_trust.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_trust.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_trust.txt
+6 - Building to Violence	prototipi_10_termini\joy_anger.txt
+8 - November_1969_sermon	prototipi_10_termini\joy_anger.txt
+3 - memoir	prototipi_10_termini\joy_anger.txt
+6 - Building to Violence	prototipi_10_termini\joy_fear.txt
+6 - Building to Violence	prototipi_10_termini\sadness_anger.txt
+3 - memoir	prototipi_10_termini\sadness_anger.txt
+6 - Building to Violence	prototipi_10_termini\sadness_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\sadness_disgust.txt
+6 - Building to Violence	prototipi_10_termini\sadness_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\sadness_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\sadness_fear.txt
+6 - Building to Violence	prototipi_10_termini\sadness_surprise.txt
+6 - Building to Violence	prototipi_10_termini\sadness_trust.txt
+6 - Building to Violence	prototipi_10_termini\surprise_anger.txt
+3 - memoir	prototipi_10_termini\surprise_anger.txt
+6 - Building to Violence	prototipi_10_termini\surprise_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\surprise_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\surprise_fear.txt
+6 - Building to Violence	prototipi_10_termini\surprise_sadness.txt
+6 - Building to Violence	prototipi_10_termini\trust_anger.txt
+3 - memoir	prototipi_10_termini\trust_anger.txt
+6 - Building to Violence	prototipi_10_termini\trust_disgust.txt
+6 - Building to Violence	prototipi_10_termini\trust_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\trust_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\trust_fear.txt
+6 - Building to Violence	prototipi_10_termini\trust_sadness.txt
+6 - Building to Violence	prototipi_10_termini\anger_fear.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_fear.txt
+6 - Building to Violence	prototipi_10_termini\disgust_fear.txt
+6 - Building to Violence	prototipi_10_termini\fear_anger.txt
+6 - Building to Violence	prototipi_10_termini\fear_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\fear_disgust.txt
+6 - Building to Violence	prototipi_10_termini\fear_sadness.txt
+6 - Building to Violence	prototipi_10_termini\fear_surprise.txt
+6 - Building to Violence	prototipi_10_termini\fear_trust.txt
+6 - Building to Violence	prototipi_10_termini\sadness_fear.txt
+6 - Building to Violence	prototipi_10_termini\surprise_fear.txt
+6 - Building to Violence	prototipi_10_termini\trust_fear.txt
+6 - Building to Violence	prototipi_10_termini\anger_anticipation.txt
+3 - memoir	prototipi_10_termini\anger_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\anger_disgust.txt
+3 - memoir	prototipi_10_termini\anger_disgust.txt
+6 - Building to Violence	prototipi_10_termini\anger_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\anger_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\anger_fear.txt
+6 - Building to Violence	prototipi_10_termini\anger_joy.txt
+8 - November_1969_sermon	prototipi_10_termini\anger_joy.txt
+3 - memoir	prototipi_10_termini\anger_joy.txt
+6 - Building to Violence	prototipi_10_termini\anger_sadness.txt
+3 - memoir	prototipi_10_termini\anger_sadness.txt
+6 - Building to Violence	prototipi_10_termini\anger_surprise.txt
+3 - memoir	prototipi_10_termini\anger_surprise.txt
+6 - Building to Violence	prototipi_10_termini\anger_trust.txt
+3 - memoir	prototipi_10_termini\anger_trust.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_anger.txt
+3 - memoir	prototipi_10_termini\anticipation_anger.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_disgust.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\anticipation_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\anticipation_fear.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_sadness.txt
+6 - Building to Violence	prototipi_10_termini\disgust_anger.txt
+3 - memoir	prototipi_10_termini\disgust_anger.txt
+6 - Building to Violence	prototipi_10_termini\disgust_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\disgust_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\disgust_fear.txt
+6 - Building to Violence	prototipi_10_termini\disgust_sadness.txt
+6 - Building to Violence	prototipi_10_termini\disgust_trust.txt
+6 - Building to Violence	prototipi_10_termini\fear_anger.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_anger.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_anger.txt
+6 - Building to Violence	prototipi_10_termini\fear_anticipation.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_anticipation.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\fear_disgust.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_disgust.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_disgust.txt
+6 - Building to Violence	prototipi_10_termini\fear_joy.txt
+6 - Building to Violence	prototipi_10_termini\fear_sadness.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_sadness.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_sadness.txt
+6 - Building to Violence	prototipi_10_termini\fear_surprise.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_surprise.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_surprise.txt
+6 - Building to Violence	prototipi_10_termini\fear_trust.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_trust.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_trust.txt
+6 - Building to Violence	prototipi_10_termini\joy_anger.txt
+8 - November_1969_sermon	prototipi_10_termini\joy_anger.txt
+3 - memoir	prototipi_10_termini\joy_anger.txt
+6 - Building to Violence	prototipi_10_termini\joy_fear.txt
+6 - Building to Violence	prototipi_10_termini\sadness_anger.txt
+3 - memoir	prototipi_10_termini\sadness_anger.txt
+6 - Building to Violence	prototipi_10_termini\sadness_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\sadness_disgust.txt
+6 - Building to Violence	prototipi_10_termini\sadness_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\sadness_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\sadness_fear.txt
+6 - Building to Violence	prototipi_10_termini\sadness_surprise.txt
+6 - Building to Violence	prototipi_10_termini\sadness_trust.txt
+6 - Building to Violence	prototipi_10_termini\surprise_anger.txt
+3 - memoir	prototipi_10_termini\surprise_anger.txt
+6 - Building to Violence	prototipi_10_termini\surprise_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\surprise_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\surprise_fear.txt
+6 - Building to Violence	prototipi_10_termini\surprise_sadness.txt
+6 - Building to Violence	prototipi_10_termini\trust_anger.txt
+3 - memoir	prototipi_10_termini\trust_anger.txt
+6 - Building to Violence	prototipi_10_termini\trust_disgust.txt
+6 - Building to Violence	prototipi_10_termini\trust_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\trust_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\trust_fear.txt
+6 - Building to Violence	prototipi_10_termini\trust_sadness.txt
+6 - Building to Violence	prototipi_10_termini\anger_anticipation.txt
+3 - memoir	prototipi_10_termini\anger_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\anger_disgust.txt
+3 - memoir	prototipi_10_termini\anger_disgust.txt
+6 - Building to Violence	prototipi_10_termini\anger_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\anger_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\anger_fear.txt
+6 - Building to Violence	prototipi_10_termini\anger_joy.txt
+8 - November_1969_sermon	prototipi_10_termini\anger_joy.txt
+3 - memoir	prototipi_10_termini\anger_joy.txt
+6 - Building to Violence	prototipi_10_termini\anger_sadness.txt
+3 - memoir	prototipi_10_termini\anger_sadness.txt
+6 - Building to Violence	prototipi_10_termini\anger_surprise.txt
+3 - memoir	prototipi_10_termini\anger_surprise.txt
+6 - Building to Violence	prototipi_10_termini\anger_trust.txt
+3 - memoir	prototipi_10_termini\anger_trust.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_anger.txt
+3 - memoir	prototipi_10_termini\anticipation_anger.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_disgust.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\anticipation_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\anticipation_fear.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_sadness.txt
+6 - Building to Violence	prototipi_10_termini\disgust_anger.txt
+3 - memoir	prototipi_10_termini\disgust_anger.txt
+6 - Building to Violence	prototipi_10_termini\disgust_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\disgust_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\disgust_fear.txt
+6 - Building to Violence	prototipi_10_termini\disgust_sadness.txt
+6 - Building to Violence	prototipi_10_termini\disgust_trust.txt
+6 - Building to Violence	prototipi_10_termini\fear_anger.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_anger.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_anger.txt
+6 - Building to Violence	prototipi_10_termini\fear_anticipation.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_anticipation.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\fear_disgust.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_disgust.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_disgust.txt
+6 - Building to Violence	prototipi_10_termini\fear_joy.txt
+6 - Building to Violence	prototipi_10_termini\fear_sadness.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_sadness.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_sadness.txt
+6 - Building to Violence	prototipi_10_termini\fear_surprise.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_surprise.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_surprise.txt
+6 - Building to Violence	prototipi_10_termini\fear_trust.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\fear_trust.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_trust.txt
+6 - Building to Violence	prototipi_10_termini\joy_anger.txt
+8 - November_1969_sermon	prototipi_10_termini\joy_anger.txt
+3 - memoir	prototipi_10_termini\joy_anger.txt
+6 - Building to Violence	prototipi_10_termini\joy_fear.txt
+6 - Building to Violence	prototipi_10_termini\sadness_anger.txt
+3 - memoir	prototipi_10_termini\sadness_anger.txt
+6 - Building to Violence	prototipi_10_termini\sadness_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\sadness_disgust.txt
+6 - Building to Violence	prototipi_10_termini\sadness_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\sadness_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\sadness_fear.txt
+6 - Building to Violence	prototipi_10_termini\sadness_surprise.txt
+6 - Building to Violence	prototipi_10_termini\sadness_trust.txt
+6 - Building to Violence	prototipi_10_termini\surprise_anger.txt
+3 - memoir	prototipi_10_termini\surprise_anger.txt
+6 - Building to Violence	prototipi_10_termini\surprise_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\surprise_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\surprise_fear.txt
+6 - Building to Violence	prototipi_10_termini\surprise_sadness.txt
+6 - Building to Violence	prototipi_10_termini\trust_anger.txt
+3 - memoir	prototipi_10_termini\trust_anger.txt
+6 - Building to Violence	prototipi_10_termini\trust_disgust.txt
+6 - Building to Violence	prototipi_10_termini\trust_fear.txt
+9 - 1970 Trial Testimony	prototipi_10_termini\trust_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\trust_fear.txt
+6 - Building to Violence	prototipi_10_termini\trust_sadness.txt
+6 - Building to Violence	prototipi_10_termini\anger_fear.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_fear.txt
+6 - Building to Violence	prototipi_10_termini\disgust_fear.txt
+6 - Building to Violence	prototipi_10_termini\fear_anger.txt
+6 - Building to Violence	prototipi_10_termini\fear_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\fear_disgust.txt
+6 - Building to Violence	prototipi_10_termini\fear_sadness.txt
+6 - Building to Violence	prototipi_10_termini\fear_surprise.txt
+6 - Building to Violence	prototipi_10_termini\fear_trust.txt
+6 - Building to Violence	prototipi_10_termini\sadness_fear.txt
+6 - Building to Violence	prototipi_10_termini\surprise_fear.txt
+6 - Building to Violence	prototipi_10_termini\trust_fear.txt
+6 - Building to Violence	prototipi_14_termini\anger_fear.txt
+6 - Building to Violence	prototipi_14_termini\anger_sadness.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_fear.txt
+6 - Building to Violence	prototipi_14_termini\disgust_fear.txt
+6 - Building to Violence	prototipi_14_termini\fear_anger.txt
+6 - Building to Violence	prototipi_14_termini\fear_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\fear_disgust.txt
+6 - Building to Violence	prototipi_14_termini\fear_joy.txt
+6 - Building to Violence	prototipi_14_termini\fear_sadness.txt
+6 - Building to Violence	prototipi_14_termini\fear_surprise.txt
+6 - Building to Violence	prototipi_14_termini\fear_trust.txt
+6 - Building to Violence	prototipi_14_termini\joy_fear.txt
+6 - Building to Violence	prototipi_14_termini\sadness_anger.txt
+6 - Building to Violence	prototipi_14_termini\sadness_fear.txt
+6 - Building to Violence	prototipi_14_termini\surprise_fear.txt
+6 - Building to Violence	prototipi_14_termini\trust_fear.txt
+6 - Building to Violence	prototipi_14_termini\anger_anticipation.txt
+3 - memoir	prototipi_14_termini\anger_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\anger_disgust.txt
+3 - memoir	prototipi_14_termini\anger_disgust.txt
+6 - Building to Violence	prototipi_14_termini\anger_fear.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\anger_fear.txt
+3 - memoir	prototipi_14_termini\anger_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\anger_fear.txt
+6 - Building to Violence	prototipi_14_termini\anger_joy.txt
+8 - November_1969_sermon	prototipi_14_termini\anger_joy.txt
+3 - memoir	prototipi_14_termini\anger_joy.txt
+6 - Building to Violence	prototipi_14_termini\anger_sadness.txt
+3 - memoir	prototipi_14_termini\anger_sadness.txt
+6 - Building to Violence	prototipi_14_termini\anger_surprise.txt
+3 - memoir	prototipi_14_termini\anger_surprise.txt
+6 - Building to Violence	prototipi_14_termini\anger_trust.txt
+3 - memoir	prototipi_14_termini\anger_trust.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_anger.txt
+3 - memoir	prototipi_14_termini\anticipation_anger.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_disgust.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_fear.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\anticipation_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\anticipation_fear.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_sadness.txt
+6 - Building to Violence	prototipi_14_termini\disgust_anger.txt
+3 - memoir	prototipi_14_termini\disgust_anger.txt
+6 - Building to Violence	prototipi_14_termini\disgust_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\disgust_fear.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\disgust_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\disgust_fear.txt
+6 - Building to Violence	prototipi_14_termini\disgust_sadness.txt
+6 - Building to Violence	prototipi_14_termini\disgust_surprise.txt
+6 - Building to Violence	prototipi_14_termini\disgust_trust.txt
+6 - Building to Violence	prototipi_14_termini\fear_anger.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\fear_anger.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_anger.txt
+6 - Building to Violence	prototipi_14_termini\fear_anticipation.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\fear_anticipation.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\fear_disgust.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\fear_disgust.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_disgust.txt
+6 - Building to Violence	prototipi_14_termini\fear_joy.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\fear_joy.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_joy.txt
+6 - Building to Violence	prototipi_14_termini\fear_sadness.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\fear_sadness.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_sadness.txt
+6 - Building to Violence	prototipi_14_termini\fear_surprise.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\fear_surprise.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_surprise.txt
+6 - Building to Violence	prototipi_14_termini\fear_trust.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\fear_trust.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_trust.txt
+6 - Building to Violence	prototipi_14_termini\joy_anger.txt
+8 - November_1969_sermon	prototipi_14_termini\joy_anger.txt
+3 - memoir	prototipi_14_termini\joy_anger.txt
+6 - Building to Violence	prototipi_14_termini\joy_fear.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\joy_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\joy_fear.txt
+6 - Building to Violence	prototipi_14_termini\joy_sadness.txt
+8 - November_1969_sermon	prototipi_14_termini\joy_sadness.txt
+6 - Building to Violence	prototipi_14_termini\sadness_anger.txt
+3 - memoir	prototipi_14_termini\sadness_anger.txt
+6 - Building to Violence	prototipi_14_termini\sadness_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\sadness_disgust.txt
+6 - Building to Violence	prototipi_14_termini\sadness_fear.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\sadness_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\sadness_fear.txt
+6 - Building to Violence	prototipi_14_termini\sadness_joy.txt
+8 - November_1969_sermon	prototipi_14_termini\sadness_joy.txt
+6 - Building to Violence	prototipi_14_termini\sadness_surprise.txt
+6 - Building to Violence	prototipi_14_termini\sadness_trust.txt
+6 - Building to Violence	prototipi_14_termini\surprise_anger.txt
+3 - memoir	prototipi_14_termini\surprise_anger.txt
+6 - Building to Violence	prototipi_14_termini\surprise_fear.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\surprise_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\surprise_fear.txt
+6 - Building to Violence	prototipi_14_termini\surprise_sadness.txt
+6 - Building to Violence	prototipi_14_termini\trust_anger.txt
+3 - memoir	prototipi_14_termini\trust_anger.txt
+6 - Building to Violence	prototipi_14_termini\trust_disgust.txt
+6 - Building to Violence	prototipi_14_termini\trust_fear.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\trust_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\trust_fear.txt
+6 - Building to Violence	prototipi_14_termini\trust_sadness.txt
+6 - Building to Violence	prototipi_14_termini\anger_anticipation.txt
+3 - memoir	prototipi_14_termini\anger_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\anger_disgust.txt
+3 - memoir	prototipi_14_termini\anger_disgust.txt
+6 - Building to Violence	prototipi_14_termini\anger_fear.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\anger_fear.txt
+3 - memoir	prototipi_14_termini\anger_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\anger_fear.txt
+6 - Building to Violence	prototipi_14_termini\anger_joy.txt
+8 - November_1969_sermon	prototipi_14_termini\anger_joy.txt
+3 - memoir	prototipi_14_termini\anger_joy.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\anger_joy.txt
+6 - Building to Violence	prototipi_14_termini\anger_sadness.txt
+3 - memoir	prototipi_14_termini\anger_sadness.txt
+6 - Building to Violence	prototipi_14_termini\anger_surprise.txt
+3 - memoir	prototipi_14_termini\anger_surprise.txt
+6 - Building to Violence	prototipi_14_termini\anger_trust.txt
+3 - memoir	prototipi_14_termini\anger_trust.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_anger.txt
+3 - memoir	prototipi_14_termini\anticipation_anger.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_disgust.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_fear.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\anticipation_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\anticipation_fear.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\anticipation_joy.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_sadness.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\anticipation_trust.txt
+6 - Building to Violence	prototipi_14_termini\disgust_anger.txt
+3 - memoir	prototipi_14_termini\disgust_anger.txt
+6 - Building to Violence	prototipi_14_termini\disgust_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\disgust_fear.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\disgust_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\disgust_fear.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\disgust_joy.txt
+6 - Building to Violence	prototipi_14_termini\disgust_sadness.txt
+6 - Building to Violence	prototipi_14_termini\disgust_surprise.txt
+6 - Building to Violence	prototipi_14_termini\disgust_trust.txt
+6 - Building to Violence	prototipi_14_termini\fear_anger.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\fear_anger.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_anger.txt
+6 - Building to Violence	prototipi_14_termini\fear_anticipation.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\fear_anticipation.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\fear_disgust.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\fear_disgust.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_disgust.txt
+6 - Building to Violence	prototipi_14_termini\fear_joy.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\fear_joy.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_joy.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\fear_joy.txt
+6 - Building to Violence	prototipi_14_termini\fear_sadness.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\fear_sadness.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_sadness.txt
+6 - Building to Violence	prototipi_14_termini\fear_surprise.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\fear_surprise.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_surprise.txt
+6 - Building to Violence	prototipi_14_termini\fear_trust.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\fear_trust.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_trust.txt
+6 - Building to Violence	prototipi_14_termini\joy_anger.txt
+8 - November_1969_sermon	prototipi_14_termini\joy_anger.txt
+3 - memoir	prototipi_14_termini\joy_anger.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\joy_anger.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\joy_anticipation.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\joy_disgust.txt
+6 - Building to Violence	prototipi_14_termini\joy_fear.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\joy_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\joy_fear.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\joy_fear.txt
+6 - Building to Violence	prototipi_14_termini\joy_sadness.txt
+8 - November_1969_sermon	prototipi_14_termini\joy_sadness.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\joy_surprise.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\joy_trust.txt
+6 - Building to Violence	prototipi_14_termini\sadness_anger.txt
+3 - memoir	prototipi_14_termini\sadness_anger.txt
+6 - Building to Violence	prototipi_14_termini\sadness_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\sadness_disgust.txt
+6 - Building to Violence	prototipi_14_termini\sadness_fear.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\sadness_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\sadness_fear.txt
+6 - Building to Violence	prototipi_14_termini\sadness_joy.txt
+8 - November_1969_sermon	prototipi_14_termini\sadness_joy.txt
+6 - Building to Violence	prototipi_14_termini\sadness_surprise.txt
+6 - Building to Violence	prototipi_14_termini\sadness_trust.txt
+6 - Building to Violence	prototipi_14_termini\surprise_anger.txt
+3 - memoir	prototipi_14_termini\surprise_anger.txt
+6 - Building to Violence	prototipi_14_termini\surprise_fear.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\surprise_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\surprise_fear.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\surprise_joy.txt
+6 - Building to Violence	prototipi_14_termini\surprise_sadness.txt
+6 - Building to Violence	prototipi_14_termini\trust_anger.txt
+3 - memoir	prototipi_14_termini\trust_anger.txt
+6 - Building to Violence	prototipi_14_termini\anger_anticipation.txt
+3 - memoir	prototipi_14_termini\anger_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\anger_disgust.txt
+3 - memoir	prototipi_14_termini\anger_disgust.txt
+6 - Building to Violence	prototipi_14_termini\anger_fear.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\anger_fear.txt
+3 - memoir	prototipi_14_termini\anger_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\anger_fear.txt
+6 - Building to Violence	prototipi_14_termini\anger_joy.txt
+8 - November_1969_sermon	prototipi_14_termini\anger_joy.txt
+3 - memoir	prototipi_14_termini\anger_joy.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\anger_joy.txt
+6 - Building to Violence	prototipi_14_termini\anger_sadness.txt
+3 - memoir	prototipi_14_termini\anger_sadness.txt
+6 - Building to Violence	prototipi_14_termini\anger_surprise.txt
+3 - memoir	prototipi_14_termini\anger_surprise.txt
+6 - Building to Violence	prototipi_14_termini\anger_trust.txt
+3 - memoir	prototipi_14_termini\anger_trust.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_anger.txt
+3 - memoir	prototipi_14_termini\anticipation_anger.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_disgust.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_fear.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\anticipation_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\anticipation_fear.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\anticipation_joy.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_sadness.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\anticipation_trust.txt
+6 - Building to Violence	prototipi_14_termini\disgust_anger.txt
+3 - memoir	prototipi_14_termini\disgust_anger.txt
+6 - Building to Violence	prototipi_14_termini\disgust_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\disgust_fear.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\disgust_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\disgust_fear.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\disgust_joy.txt
+6 - Building to Violence	prototipi_14_termini\disgust_sadness.txt
+6 - Building to Violence	prototipi_14_termini\disgust_surprise.txt
+6 - Building to Violence	prototipi_14_termini\disgust_trust.txt
+6 - Building to Violence	prototipi_14_termini\fear_anger.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\fear_anger.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_anger.txt
+6 - Building to Violence	prototipi_14_termini\fear_anticipation.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\fear_anticipation.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\fear_disgust.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\fear_disgust.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_disgust.txt
+6 - Building to Violence	prototipi_14_termini\fear_joy.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\fear_joy.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_joy.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\fear_joy.txt
+6 - Building to Violence	prototipi_14_termini\fear_sadness.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\fear_sadness.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_sadness.txt
+6 - Building to Violence	prototipi_14_termini\fear_surprise.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\fear_surprise.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_surprise.txt
+6 - Building to Violence	prototipi_14_termini\fear_trust.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\fear_trust.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_trust.txt
+6 - Building to Violence	prototipi_14_termini\joy_anger.txt
+8 - November_1969_sermon	prototipi_14_termini\joy_anger.txt
+3 - memoir	prototipi_14_termini\joy_anger.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\joy_anger.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\joy_anticipation.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\joy_disgust.txt
+6 - Building to Violence	prototipi_14_termini\joy_fear.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\joy_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\joy_fear.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\joy_fear.txt
+6 - Building to Violence	prototipi_14_termini\joy_sadness.txt
+8 - November_1969_sermon	prototipi_14_termini\joy_sadness.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\joy_surprise.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\joy_trust.txt
+6 - Building to Violence	prototipi_14_termini\sadness_anger.txt
+3 - memoir	prototipi_14_termini\sadness_anger.txt
+6 - Building to Violence	prototipi_14_termini\sadness_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\sadness_disgust.txt
+6 - Building to Violence	prototipi_14_termini\sadness_fear.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\sadness_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\sadness_fear.txt
+6 - Building to Violence	prototipi_14_termini\sadness_joy.txt
+8 - November_1969_sermon	prototipi_14_termini\sadness_joy.txt
+6 - Building to Violence	prototipi_14_termini\sadness_surprise.txt
+6 - Building to Violence	prototipi_14_termini\sadness_trust.txt
+6 - Building to Violence	prototipi_14_termini\surprise_anger.txt
+3 - memoir	prototipi_14_termini\surprise_anger.txt
+6 - Building to Violence	prototipi_14_termini\surprise_fear.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\surprise_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\surprise_fear.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\surprise_joy.txt
+6 - Building to Violence	prototipi_14_termini\surprise_sadness.txt
+6 - Building to Violence	prototipi_14_termini\trust_anger.txt
+3 - memoir	prototipi_14_termini\trust_anger.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\trust_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\trust_disgust.txt
+6 - Building to Violence	prototipi_14_termini\trust_fear.txt
+9 - 1970 Trial Testimony	prototipi_14_termini\trust_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\trust_fear.txt
+10 - Nobel_Lecture_&_Dream_(Composite)	prototipi_14_termini\trust_joy.txt
+6 - Building to Violence	prototipi_14_termini\trust_sadness.txt
+6 - Building to Violence	prototipi_14_termini\anger_anticipation.txt
+3 - memoir	prototipi_14_termini\anger_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\anger_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anger_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\anger_disgust.txt
+3 - memoir	prototipi_14_termini\anger_disgust.txt
+6 - Building to Violence	prototipi_14_termini\anger_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\anger_fear.txt
+3 - memoir	prototipi_14_termini\anger_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\anger_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anger_joy.txt
+6 - Building to Violence	prototipi_14_termini\anger_joy.txt
+8 - November_1969_sermon	prototipi_14_termini\anger_joy.txt
+3 - memoir	prototipi_14_termini\anger_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\anger_joy.txt
+6 - Building to Violence	prototipi_14_termini\anger_sadness.txt
+3 - memoir	prototipi_14_termini\anger_sadness.txt
+6 - Building to Violence	prototipi_14_termini\anger_surprise.txt
+3 - memoir	prototipi_14_termini\anger_surprise.txt
+6 - Building to Violence	prototipi_14_termini\anger_trust.txt
+3 - memoir	prototipi_14_termini\anger_trust.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_anger.txt
+3 - memoir	prototipi_14_termini\anticipation_anger.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_disgust.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\anticipation_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\anticipation_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anticipation_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\anticipation_joy.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_sadness.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\anticipation_trust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anticipation_trust.txt
+6 - Building to Violence	prototipi_14_termini\disgust_anger.txt
+3 - memoir	prototipi_14_termini\disgust_anger.txt
+6 - Building to Violence	prototipi_14_termini\disgust_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\disgust_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\disgust_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\disgust_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\disgust_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\disgust_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\disgust_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\disgust_joy.txt
+6 - Building to Violence	prototipi_14_termini\disgust_sadness.txt
+6 - Building to Violence	prototipi_14_termini\disgust_surprise.txt
+6 - Building to Violence	prototipi_14_termini\disgust_trust.txt
+6 - Building to Violence	prototipi_14_termini\fear_anger.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_anger.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_anger.txt
+6 - Building to Violence	prototipi_14_termini\fear_anticipation.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_anticipation.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\fear_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\fear_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\fear_disgust.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_disgust.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_disgust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\fear_joy.txt
+6 - Building to Violence	prototipi_14_termini\fear_joy.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_joy.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\fear_joy.txt
+6 - Building to Violence	prototipi_14_termini\fear_sadness.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_sadness.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_sadness.txt
+6 - Building to Violence	prototipi_14_termini\fear_surprise.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_surprise.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_surprise.txt
+6 - Building to Violence	prototipi_14_termini\fear_trust.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_trust.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_trust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_anger.txt
+6 - Building to Violence	prototipi_14_termini\joy_anger.txt
+8 - November_1969_sermon	prototipi_14_termini\joy_anger.txt
+3 - memoir	prototipi_14_termini\joy_anger.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_anger.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_disgust.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_disgust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_fear.txt
+6 - Building to Violence	prototipi_14_termini\joy_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\joy_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\joy_fear.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_fear.txt
+6 - Building to Violence	prototipi_14_termini\joy_sadness.txt
+8 - November_1969_sermon	prototipi_14_termini\joy_sadness.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_trust.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_trust.txt
+6 - Building to Violence	prototipi_14_termini\sadness_anger.txt
+3 - memoir	prototipi_14_termini\sadness_anger.txt
+6 - Building to Violence	prototipi_14_termini\sadness_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\sadness_disgust.txt
+6 - Building to Violence	prototipi_14_termini\sadness_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\sadness_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\sadness_fear.txt
+6 - Building to Violence	prototipi_14_termini\sadness_joy.txt
+8 - November_1969_sermon	prototipi_14_termini\sadness_joy.txt
+6 - Building to Violence	prototipi_14_termini\sadness_surprise.txt
+6 - Building to Violence	prototipi_14_termini\sadness_trust.txt
+6 - Building to Violence	prototipi_14_termini\surprise_anger.txt
+3 - memoir	prototipi_14_termini\surprise_anger.txt
+6 - Building to Violence	prototipi_14_termini\surprise_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\surprise_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\surprise_fear.txt
+6 - Building to Violence	prototipi_14_termini\surprise_sadness.txt
+6 - Building to Violence	prototipi_14_termini\trust_anger.txt
+3 - memoir	prototipi_14_termini\trust_anger.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\trust_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\trust_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\trust_disgust.txt
+6 - Building to Violence	prototipi_14_termini\trust_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\trust_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\trust_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\trust_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\trust_joy.txt
+6 - Building to Violence	prototipi_14_termini\trust_sadness.txt
+6 - Building to Violence	prototipi_14_termini\anger_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anger_joy.txt
+6 - Building to Violence	prototipi_14_termini\anger_sadness.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anticipation_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\anticipation_trust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anticipation_trust.txt
+6 - Building to Violence	prototipi_14_termini\disgust_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\disgust_joy.txt
+6 - Building to Violence	prototipi_14_termini\fear_anger.txt
+6 - Building to Violence	prototipi_14_termini\fear_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\fear_disgust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\fear_joy.txt
+6 - Building to Violence	prototipi_14_termini\fear_joy.txt
+6 - Building to Violence	prototipi_14_termini\fear_sadness.txt
+6 - Building to Violence	prototipi_14_termini\fear_surprise.txt
+6 - Building to Violence	prototipi_14_termini\fear_trust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_anger.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_disgust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_fear.txt
+6 - Building to Violence	prototipi_14_termini\joy_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_trust.txt
+6 - Building to Violence	prototipi_14_termini\sadness_anger.txt
+6 - Building to Violence	prototipi_14_termini\sadness_fear.txt
+6 - Building to Violence	prototipi_14_termini\surprise_fear.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\trust_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\trust_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\trust_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\trust_joy.txt
+6 - Building to Violence	prototipi_14_termini\anger_anticipation.txt
+3 - memoir	prototipi_14_termini\anger_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\anger_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anger_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\anger_disgust.txt
+3 - memoir	prototipi_14_termini\anger_disgust.txt
+6 - Building to Violence	prototipi_14_termini\anger_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\anger_fear.txt
+3 - memoir	prototipi_14_termini\anger_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\anger_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anger_joy.txt
+6 - Building to Violence	prototipi_14_termini\anger_joy.txt
+8 - November_1969_sermon	prototipi_14_termini\anger_joy.txt
+3 - memoir	prototipi_14_termini\anger_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\anger_joy.txt
+6 - Building to Violence	prototipi_14_termini\anger_sadness.txt
+3 - memoir	prototipi_14_termini\anger_sadness.txt
+6 - Building to Violence	prototipi_14_termini\anger_surprise.txt
+3 - memoir	prototipi_14_termini\anger_surprise.txt
+6 - Building to Violence	prototipi_14_termini\anger_trust.txt
+3 - memoir	prototipi_14_termini\anger_trust.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_anger.txt
+3 - memoir	prototipi_14_termini\anticipation_anger.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_disgust.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\anticipation_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\anticipation_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anticipation_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\anticipation_joy.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_sadness.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\anticipation_trust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anticipation_trust.txt
+6 - Building to Violence	prototipi_14_termini\disgust_anger.txt
+3 - memoir	prototipi_14_termini\disgust_anger.txt
+6 - Building to Violence	prototipi_14_termini\disgust_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\disgust_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\disgust_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\disgust_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\disgust_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\disgust_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\disgust_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\disgust_joy.txt
+6 - Building to Violence	prototipi_14_termini\disgust_sadness.txt
+6 - Building to Violence	prototipi_14_termini\disgust_surprise.txt
+6 - Building to Violence	prototipi_14_termini\disgust_trust.txt
+6 - Building to Violence	prototipi_14_termini\fear_anger.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_anger.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_anger.txt
+6 - Building to Violence	prototipi_14_termini\fear_anticipation.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_anticipation.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\fear_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\fear_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\fear_disgust.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_disgust.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_disgust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\fear_joy.txt
+6 - Building to Violence	prototipi_14_termini\fear_joy.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_joy.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\fear_joy.txt
+6 - Building to Violence	prototipi_14_termini\fear_sadness.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_sadness.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_sadness.txt
+6 - Building to Violence	prototipi_14_termini\fear_surprise.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_surprise.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_surprise.txt
+6 - Building to Violence	prototipi_14_termini\fear_trust.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_trust.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_trust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_anger.txt
+6 - Building to Violence	prototipi_14_termini\joy_anger.txt
+8 - November_1969_sermon	prototipi_14_termini\joy_anger.txt
+3 - memoir	prototipi_14_termini\joy_anger.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_anger.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_disgust.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_disgust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_fear.txt
+6 - Building to Violence	prototipi_14_termini\joy_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\joy_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\joy_fear.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_fear.txt
+6 - Building to Violence	prototipi_14_termini\joy_sadness.txt
+8 - November_1969_sermon	prototipi_14_termini\joy_sadness.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_trust.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_trust.txt
+6 - Building to Violence	prototipi_14_termini\sadness_anger.txt
+3 - memoir	prototipi_14_termini\sadness_anger.txt
+6 - Building to Violence	prototipi_14_termini\sadness_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\sadness_disgust.txt
+6 - Building to Violence	prototipi_14_termini\sadness_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\sadness_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\sadness_fear.txt
+6 - Building to Violence	prototipi_14_termini\sadness_joy.txt
+8 - November_1969_sermon	prototipi_14_termini\sadness_joy.txt
+6 - Building to Violence	prototipi_14_termini\sadness_surprise.txt
+6 - Building to Violence	prototipi_14_termini\sadness_trust.txt
+6 - Building to Violence	prototipi_14_termini\surprise_anger.txt
+3 - memoir	prototipi_14_termini\surprise_anger.txt
+6 - Building to Violence	prototipi_14_termini\surprise_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\surprise_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\surprise_fear.txt
+6 - Building to Violence	prototipi_14_termini\surprise_sadness.txt
+6 - Building to Violence	prototipi_14_termini\trust_anger.txt
+3 - memoir	prototipi_14_termini\trust_anger.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\trust_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\trust_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\trust_disgust.txt
+6 - Building to Violence	prototipi_14_termini\trust_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\trust_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\trust_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\trust_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\trust_joy.txt
+6 - Building to Violence	prototipi_14_termini\trust_sadness.txt
+6 - Building to Violence	prototipi_14_termini\anger_anticipation.txt
+3 - memoir	prototipi_14_termini\anger_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\anger_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anger_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\anger_disgust.txt
+3 - memoir	prototipi_14_termini\anger_disgust.txt
+6 - Building to Violence	prototipi_14_termini\anger_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\anger_fear.txt
+3 - memoir	prototipi_14_termini\anger_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\anger_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anger_joy.txt
+6 - Building to Violence	prototipi_14_termini\anger_joy.txt
+8 - November_1969_sermon	prototipi_14_termini\anger_joy.txt
+3 - memoir	prototipi_14_termini\anger_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\anger_joy.txt
+6 - Building to Violence	prototipi_14_termini\anger_sadness.txt
+3 - memoir	prototipi_14_termini\anger_sadness.txt
+6 - Building to Violence	prototipi_14_termini\anger_surprise.txt
+3 - memoir	prototipi_14_termini\anger_surprise.txt
+6 - Building to Violence	prototipi_14_termini\anger_trust.txt
+3 - memoir	prototipi_14_termini\anger_trust.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_anger.txt
+3 - memoir	prototipi_14_termini\anticipation_anger.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_disgust.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\anticipation_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\anticipation_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anticipation_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\anticipation_joy.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_sadness.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\anticipation_trust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anticipation_trust.txt
+6 - Building to Violence	prototipi_14_termini\disgust_anger.txt
+3 - memoir	prototipi_14_termini\disgust_anger.txt
+6 - Building to Violence	prototipi_14_termini\disgust_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\disgust_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\disgust_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\disgust_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\disgust_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\disgust_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\disgust_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\disgust_joy.txt
+6 - Building to Violence	prototipi_14_termini\disgust_sadness.txt
+6 - Building to Violence	prototipi_14_termini\disgust_surprise.txt
+6 - Building to Violence	prototipi_14_termini\disgust_trust.txt
+6 - Building to Violence	prototipi_14_termini\fear_anger.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_anger.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_anger.txt
+6 - Building to Violence	prototipi_14_termini\fear_anticipation.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_anticipation.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\fear_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\fear_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\fear_disgust.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_disgust.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_disgust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\fear_joy.txt
+6 - Building to Violence	prototipi_14_termini\fear_joy.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_joy.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\fear_joy.txt
+6 - Building to Violence	prototipi_14_termini\fear_sadness.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_sadness.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_sadness.txt
+6 - Building to Violence	prototipi_14_termini\fear_surprise.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_surprise.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_surprise.txt
+6 - Building to Violence	prototipi_14_termini\fear_trust.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_trust.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_trust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_anger.txt
+6 - Building to Violence	prototipi_14_termini\joy_anger.txt
+8 - November_1969_sermon	prototipi_14_termini\joy_anger.txt
+3 - memoir	prototipi_14_termini\joy_anger.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_anger.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_disgust.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_disgust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_fear.txt
+6 - Building to Violence	prototipi_14_termini\joy_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\joy_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\joy_fear.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_fear.txt
+6 - Building to Violence	prototipi_14_termini\joy_sadness.txt
+8 - November_1969_sermon	prototipi_14_termini\joy_sadness.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_trust.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_trust.txt
+6 - Building to Violence	prototipi_14_termini\sadness_anger.txt
+3 - memoir	prototipi_14_termini\sadness_anger.txt
+6 - Building to Violence	prototipi_14_termini\sadness_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\sadness_disgust.txt
+6 - Building to Violence	prototipi_14_termini\sadness_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\sadness_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\sadness_fear.txt
+6 - Building to Violence	prototipi_14_termini\sadness_joy.txt
+8 - November_1969_sermon	prototipi_14_termini\sadness_joy.txt
+6 - Building to Violence	prototipi_14_termini\sadness_surprise.txt
+6 - Building to Violence	prototipi_14_termini\sadness_trust.txt
+6 - Building to Violence	prototipi_14_termini\surprise_anger.txt
+3 - memoir	prototipi_14_termini\surprise_anger.txt
+6 - Building to Violence	prototipi_14_termini\surprise_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\surprise_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\surprise_fear.txt
+6 - Building to Violence	prototipi_14_termini\surprise_sadness.txt
+6 - Building to Violence	prototipi_14_termini\trust_anger.txt
+3 - memoir	prototipi_14_termini\trust_anger.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\trust_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\trust_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\trust_disgust.txt
+6 - Building to Violence	prototipi_14_termini\trust_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\trust_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\trust_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\trust_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\trust_joy.txt
+6 - Building to Violence	prototipi_14_termini\trust_sadness.txt
+6 - Building to Violence	prototipi_10_termini\anger_anticipation.txt
+3 - memoir	prototipi_10_termini\anger_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_10_termini\anger_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\anger_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\anger_disgust.txt
+3 - memoir	prototipi_10_termini\anger_disgust.txt
+6 - Building to Violence	prototipi_10_termini\anger_fear.txt
+9 - 1970_Trial_Testimony	prototipi_10_termini\anger_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\anger_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\anger_joy.txt
+6 - Building to Violence	prototipi_10_termini\anger_joy.txt
+8 - November_1969_sermon	prototipi_10_termini\anger_joy.txt
+3 - memoir	prototipi_10_termini\anger_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_10_termini\anger_joy.txt
+6 - Building to Violence	prototipi_10_termini\anger_sadness.txt
+3 - memoir	prototipi_10_termini\anger_sadness.txt
+6 - Building to Violence	prototipi_10_termini\anger_surprise.txt
+3 - memoir	prototipi_10_termini\anger_surprise.txt
+6 - Building to Violence	prototipi_10_termini\anger_trust.txt
+3 - memoir	prototipi_10_termini\anger_trust.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_anger.txt
+3 - memoir	prototipi_10_termini\anticipation_anger.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_disgust.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_fear.txt
+9 - 1970_Trial_Testimony	prototipi_10_termini\anticipation_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\anticipation_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\anticipation_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_10_termini\anticipation_joy.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_sadness.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_10_termini\anticipation_trust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\anticipation_trust.txt
+6 - Building to Violence	prototipi_10_termini\disgust_anger.txt
+3 - memoir	prototipi_10_termini\disgust_anger.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_10_termini\disgust_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\disgust_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\disgust_fear.txt
+9 - 1970_Trial_Testimony	prototipi_10_termini\disgust_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\disgust_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\disgust_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_10_termini\disgust_joy.txt
+6 - Building to Violence	prototipi_10_termini\disgust_sadness.txt
+6 - Building to Violence	prototipi_10_termini\disgust_trust.txt
+6 - Building to Violence	prototipi_10_termini\fear_anger.txt
+9 - 1970_Trial_Testimony	prototipi_10_termini\fear_anger.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_anger.txt
+6 - Building to Violence	prototipi_10_termini\fear_anticipation.txt
+9 - 1970_Trial_Testimony	prototipi_10_termini\fear_anticipation.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_10_termini\fear_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\fear_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\fear_disgust.txt
+9 - 1970_Trial_Testimony	prototipi_10_termini\fear_disgust.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_disgust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\fear_joy.txt
+6 - Building to Violence	prototipi_10_termini\fear_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_10_termini\fear_joy.txt
+6 - Building to Violence	prototipi_10_termini\fear_sadness.txt
+9 - 1970_Trial_Testimony	prototipi_10_termini\fear_sadness.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_sadness.txt
+6 - Building to Violence	prototipi_10_termini\fear_surprise.txt
+9 - 1970_Trial_Testimony	prototipi_10_termini\fear_surprise.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_surprise.txt
+6 - Building to Violence	prototipi_10_termini\fear_trust.txt
+9 - 1970_Trial_Testimony	prototipi_10_termini\fear_trust.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\fear_trust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\joy_anger.txt
+6 - Building to Violence	prototipi_10_termini\joy_anger.txt
+8 - November_1969_sermon	prototipi_10_termini\joy_anger.txt
+3 - memoir	prototipi_10_termini\joy_anger.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_10_termini\joy_anger.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\joy_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_10_termini\joy_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\joy_disgust.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_10_termini\joy_disgust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\joy_fear.txt
+6 - Building to Violence	prototipi_10_termini\joy_fear.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_10_termini\joy_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\joy_trust.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_10_termini\joy_trust.txt
+6 - Building to Violence	prototipi_10_termini\sadness_anger.txt
+3 - memoir	prototipi_10_termini\sadness_anger.txt
+6 - Building to Violence	prototipi_10_termini\sadness_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\sadness_disgust.txt
+6 - Building to Violence	prototipi_10_termini\sadness_fear.txt
+9 - 1970_Trial_Testimony	prototipi_10_termini\sadness_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\sadness_fear.txt
+6 - Building to Violence	prototipi_10_termini\sadness_surprise.txt
+6 - Building to Violence	prototipi_10_termini\sadness_trust.txt
+6 - Building to Violence	prototipi_10_termini\surprise_anger.txt
+3 - memoir	prototipi_10_termini\surprise_anger.txt
+6 - Building to Violence	prototipi_10_termini\surprise_fear.txt
+9 - 1970_Trial_Testimony	prototipi_10_termini\surprise_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\surprise_fear.txt
+6 - Building to Violence	prototipi_10_termini\surprise_sadness.txt
+6 - Building to Violence	prototipi_10_termini\trust_anger.txt
+3 - memoir	prototipi_10_termini\trust_anger.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_10_termini\trust_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\trust_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\trust_disgust.txt
+6 - Building to Violence	prototipi_10_termini\trust_fear.txt
+9 - 1970_Trial_Testimony	prototipi_10_termini\trust_fear.txt
+4 - The Truth about Primitive Life	prototipi_10_termini\trust_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\trust_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_10_termini\trust_joy.txt
+6 - Building to Violence	prototipi_10_termini\trust_sadness.txt
+6 - Building to Violence	prototipi\aggressiveness-anger_anticipation
+3 - memoir	prototipi\aggressiveness-anger_anticipation
+6 - Building to Violence	prototipi\aggressiveness-anticipation_anger
+3 - memoir	prototipi\aggressiveness-anticipation_anger
+6 - Building to Violence	prototipi\anxiety-anticipation_fear
+9 - 1970_Trial_Testimony	prototipi\anxiety-anticipation_fear
+4 - The Truth about Primitive Life	prototipi\anxiety-anticipation_fear
+6 - Building to Violence	prototipi\anxiety-fear_anticipation
+9 - 1970_Trial_Testimony	prototipi\anxiety-fear_anticipation
+4 - The Truth about Primitive Life	prototipi\anxiety-fear_anticipation
+6 - Building to Violence	prototipi\awe-fear_surprise
+9 - 1970_Trial_Testimony	prototipi\awe-fear_surprise
+4 - The Truth about Primitive Life	prototipi\awe-fear_surprise
+6 - Building to Violence	prototipi\awe-surprise_fear
+9 - 1970_Trial_Testimony	prototipi\awe-surprise_fear
+4 - The Truth about Primitive Life	prototipi\awe-surprise_fear
+6 - Building to Violence	prototipi\contempt-anger_disgust
+3 - memoir	prototipi\contempt-anger_disgust
+6 - Building to Violence	prototipi\contempt-disgust_anger
+3 - memoir	prototipi\contempt-disgust_anger
+6 - Building to Violence	prototipi\despair-fear_sadness
+6 - Building to Violence	prototipi\despair-sadness_fear
+6 - Building to Violence	prototipi\dominance-anger_trust
+3 - memoir	prototipi\dominance-anger_trust
+6 - Building to Violence	prototipi\dominance-trust_anger
+3 - memoir	prototipi\dominance-trust_anger
+6 - Building to Violence	prototipi\envy-anger_sadness
+3 - memoir	prototipi\envy-anger_sadness
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi\guilt-fear_joy
+6 - Building to Violence	prototipi\guilt-fear_joy
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi\guilt-fear_joy
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi\guilt-joy_fear
+6 - Building to Violence	prototipi\guilt-joy_fear
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi\guilt-joy_fear
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi\hope-anticipation_trust
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi\hope-anticipation_trust
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi\hope-trust_anticipation
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi\hope-trust_anticipation
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi\love-joy_trust
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi\love-joy_trust
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi\love-trust_joy
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi\love-trust_joy
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi\morbidness-disgust_joy
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi\morbidness-disgust_joy
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi\morbidness-joy_disgust
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi\morbidness-joy_disgust
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi\optimism-anticipation_joy
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi\optimism-anticipation_joy
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi\optimism-joy_anticipation
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi\optimism-joy_anticipation
+6 - Building to Violence	prototipi\outrage-anger_surprise
+3 - memoir	prototipi\outrage-anger_surprise
+6 - Building to Violence	prototipi\outrage-surprise_anger
+3 - memoir	prototipi\outrage-surprise_anger
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi\pride-anger_joy
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi\pride-anger_joy
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi\pride-joy_anger
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi\pride-joy_anger
+6 - Building to Violence	prototipi\shame-disgust_fear
+9 - 1970_Trial_Testimony	prototipi\shame-disgust_fear
+4 - The Truth about Primitive Life	prototipi\shame-disgust_fear
+6 - Building to Violence	prototipi\shame-fear_disgust
+9 - 1970_Trial_Testimony	prototipi\shame-fear_disgust
+4 - The Truth about Primitive Life	prototipi\shame-fear_disgust
+6 - Building to Violence	prototipi\submission-fear_trust
+9 - 1970_Trial_Testimony	prototipi\submission-fear_trust
+4 - The Truth about Primitive Life	prototipi\submission-fear_trust
+6 - Building to Violence	prototipi\submission-trust_fear
+9 - 1970_Trial_Testimony	prototipi\submission-trust_fear
+4 - The Truth about Primitive Life	prototipi\submission-trust_fear
+6 - Building to Violence	prototipi_10_termini\anger_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\anger_joy.txt
+6 - Building to Violence	prototipi_10_termini\anticipation_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\anticipation_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_10_termini\anticipation_trust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\anticipation_trust.txt
+6 - Building to Violence	prototipi_10_termini\disgust_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\disgust_joy.txt
+6 - Building to Violence	prototipi_10_termini\fear_anger.txt
+6 - Building to Violence	prototipi_10_termini\fear_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\fear_disgust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\fear_joy.txt
+6 - Building to Violence	prototipi_10_termini\fear_sadness.txt
+6 - Building to Violence	prototipi_10_termini\fear_surprise.txt
+6 - Building to Violence	prototipi_10_termini\fear_trust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\joy_anger.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\joy_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_10_termini\joy_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\joy_disgust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\joy_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\joy_trust.txt
+6 - Building to Violence	prototipi_10_termini\sadness_fear.txt
+6 - Building to Violence	prototipi_10_termini\surprise_fear.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_10_termini\trust_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\trust_anticipation.txt
+6 - Building to Violence	prototipi_10_termini\trust_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_10_termini\trust_joy.txt
+6 - Building to Violence	prototipi_14_termini\anger_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anger_joy.txt
+6 - Building to Violence	prototipi_14_termini\anger_sadness.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anticipation_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\anticipation_trust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anticipation_trust.txt
+6 - Building to Violence	prototipi_14_termini\disgust_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\disgust_joy.txt
+6 - Building to Violence	prototipi_14_termini\fear_anger.txt
+6 - Building to Violence	prototipi_14_termini\fear_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\fear_disgust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\fear_joy.txt
+6 - Building to Violence	prototipi_14_termini\fear_joy.txt
+6 - Building to Violence	prototipi_14_termini\fear_sadness.txt
+6 - Building to Violence	prototipi_14_termini\fear_surprise.txt
+6 - Building to Violence	prototipi_14_termini\fear_trust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_anger.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_disgust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_fear.txt
+6 - Building to Violence	prototipi_14_termini\joy_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_trust.txt
+6 - Building to Violence	prototipi_14_termini\sadness_anger.txt
+6 - Building to Violence	prototipi_14_termini\sadness_fear.txt
+6 - Building to Violence	prototipi_14_termini\surprise_fear.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\trust_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\trust_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\trust_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\trust_joy.txt
+6 - Building to Violence	prototipi_14_termini\anger_anticipation.txt
+3 - memoir	prototipi_14_termini\anger_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\anger_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anger_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\anger_disgust.txt
+3 - memoir	prototipi_14_termini\anger_disgust.txt
+6 - Building to Violence	prototipi_14_termini\anger_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\anger_fear.txt
+3 - memoir	prototipi_14_termini\anger_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\anger_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anger_joy.txt
+6 - Building to Violence	prototipi_14_termini\anger_joy.txt
+8 - November_1969_sermon	prototipi_14_termini\anger_joy.txt
+3 - memoir	prototipi_14_termini\anger_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\anger_joy.txt
+6 - Building to Violence	prototipi_14_termini\anger_sadness.txt
+3 - memoir	prototipi_14_termini\anger_sadness.txt
+6 - Building to Violence	prototipi_14_termini\anger_surprise.txt
+3 - memoir	prototipi_14_termini\anger_surprise.txt
+6 - Building to Violence	prototipi_14_termini\anger_trust.txt
+3 - memoir	prototipi_14_termini\anger_trust.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_anger.txt
+3 - memoir	prototipi_14_termini\anticipation_anger.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_disgust.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\anticipation_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\anticipation_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anticipation_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\anticipation_joy.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_sadness.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\anticipation_trust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anticipation_trust.txt
+6 - Building to Violence	prototipi_14_termini\disgust_anger.txt
+3 - memoir	prototipi_14_termini\disgust_anger.txt
+6 - Building to Violence	prototipi_14_termini\disgust_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\disgust_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\disgust_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\disgust_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\disgust_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\disgust_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\disgust_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\disgust_joy.txt
+6 - Building to Violence	prototipi_14_termini\disgust_sadness.txt
+6 - Building to Violence	prototipi_14_termini\disgust_surprise.txt
+6 - Building to Violence	prototipi_14_termini\disgust_trust.txt
+6 - Building to Violence	prototipi_14_termini\fear_anger.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_anger.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_anger.txt
+6 - Building to Violence	prototipi_14_termini\fear_anticipation.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_anticipation.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\fear_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\fear_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\fear_disgust.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_disgust.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_disgust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\fear_joy.txt
+6 - Building to Violence	prototipi_14_termini\fear_joy.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_joy.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\fear_joy.txt
+6 - Building to Violence	prototipi_14_termini\fear_sadness.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_sadness.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_sadness.txt
+6 - Building to Violence	prototipi_14_termini\fear_surprise.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_surprise.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_surprise.txt
+6 - Building to Violence	prototipi_14_termini\fear_trust.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_trust.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_trust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_anger.txt
+6 - Building to Violence	prototipi_14_termini\joy_anger.txt
+8 - November_1969_sermon	prototipi_14_termini\joy_anger.txt
+3 - memoir	prototipi_14_termini\joy_anger.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_anger.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_disgust.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_disgust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_fear.txt
+6 - Building to Violence	prototipi_14_termini\joy_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\joy_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\joy_fear.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_fear.txt
+6 - Building to Violence	prototipi_14_termini\joy_sadness.txt
+8 - November_1969_sermon	prototipi_14_termini\joy_sadness.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_trust.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_trust.txt
+6 - Building to Violence	prototipi_14_termini\sadness_anger.txt
+3 - memoir	prototipi_14_termini\sadness_anger.txt
+6 - Building to Violence	prototipi_14_termini\sadness_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\sadness_disgust.txt
+6 - Building to Violence	prototipi_14_termini\sadness_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\sadness_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\sadness_fear.txt
+6 - Building to Violence	prototipi_14_termini\sadness_joy.txt
+8 - November_1969_sermon	prototipi_14_termini\sadness_joy.txt
+6 - Building to Violence	prototipi_14_termini\sadness_surprise.txt
+6 - Building to Violence	prototipi_14_termini\sadness_trust.txt
+6 - Building to Violence	prototipi_14_termini\surprise_anger.txt
+3 - memoir	prototipi_14_termini\surprise_anger.txt
+6 - Building to Violence	prototipi_14_termini\surprise_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\surprise_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\surprise_fear.txt
+6 - Building to Violence	prototipi_14_termini\surprise_sadness.txt
+6 - Building to Violence	prototipi_14_termini\trust_anger.txt
+3 - memoir	prototipi_14_termini\trust_anger.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\trust_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\trust_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\trust_disgust.txt
+6 - Building to Violence	prototipi_14_termini\trust_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\trust_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\trust_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\trust_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\trust_joy.txt
+6 - Building to Violence	prototipi_14_termini\trust_sadness.txt
