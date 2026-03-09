@@ -3397,3 +3397,295 @@ Aileen_Wuornos_Last_Words - Courtroom Statements and Interviews	anger_disgust.tx
 16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\trust_surprise.txt
 12 - Letter to the Press (Synthetic)	prototipi_14_termini\trust_surprise.txt
 13 - Police Confession Tape (Synthetic)	prototipi_14_termini\trust_surprise.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\anger_anticipation.txt
+15 - Confiscated Journal Entries (Synthetic)	prototipi_14_termini\anger_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\anger_anticipation.txt
+3 - memoir	prototipi_14_termini\anger_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\anger_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anger_anticipation.txt
+14 - Psychiatric Evaluation (Synthetic)	prototipi_14_termini\anger_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\anger_disgust.txt
+3 - memoir	prototipi_14_termini\anger_disgust.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\anger_fear.txt
+6 - Building to Violence	prototipi_14_termini\anger_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\anger_fear.txt
+3 - memoir	prototipi_14_termini\anger_fear.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\anger_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\anger_fear.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\anger_fear.txt
+15 - Confiscated Journal Entries (Synthetic)	prototipi_14_termini\anger_joy.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anger_joy.txt
+14 - Psychiatric Evaluation (Synthetic)	prototipi_14_termini\anger_joy.txt
+6 - Building to Violence	prototipi_14_termini\anger_joy.txt
+8 - November_1969_sermon	prototipi_14_termini\anger_joy.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\anger_joy.txt
+3 - memoir	prototipi_14_termini\anger_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\anger_joy.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\anger_sadness.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\anger_sadness.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\anger_sadness.txt
+6 - Building to Violence	prototipi_14_termini\anger_sadness.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\anger_sadness.txt
+3 - memoir	prototipi_14_termini\anger_sadness.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\anger_sadness.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\anger_surprise.txt
+6 - Building to Violence	prototipi_14_termini\anger_surprise.txt
+3 - memoir	prototipi_14_termini\anger_surprise.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\anger_trust.txt
+6 - Building to Violence	prototipi_14_termini\anger_trust.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\anger_trust.txt
+3 - memoir	prototipi_14_termini\anger_trust.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\anger_trust.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\anger_trust.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\anger_trust.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\anticipation_anger.txt
+15 - Confiscated Journal Entries (Synthetic)	prototipi_14_termini\anticipation_anger.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_anger.txt
+3 - memoir	prototipi_14_termini\anticipation_anger.txt
+14 - Psychiatric Evaluation (Synthetic)	prototipi_14_termini\anticipation_anger.txt
+15 - Confiscated Journal Entries (Synthetic)	prototipi_14_termini\anticipation_disgust.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_disgust.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\anticipation_disgust.txt
+14 - Psychiatric Evaluation (Synthetic)	prototipi_14_termini\anticipation_disgust.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\anticipation_fear.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_fear.txt
+15 - Confiscated Journal Entries (Synthetic)	prototipi_14_termini\anticipation_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\anticipation_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\anticipation_fear.txt
+14 - Psychiatric Evaluation (Synthetic)	prototipi_14_termini\anticipation_fear.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\anticipation_fear.txt
+14 - Psychiatric Evaluation (Synthetic)	prototipi_14_termini\anticipation_fear.txt
+15 - Confiscated Journal Entries (Synthetic)	prototipi_14_termini\anticipation_joy.txt
+14 - Psychiatric Evaluation (Synthetic)	prototipi_14_termini\anticipation_joy.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anticipation_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\anticipation_joy.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\anticipation_sadness.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\anticipation_sadness.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\anticipation_sadness.txt
+6 - Building to Violence	prototipi_14_termini\anticipation_sadness.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\anticipation_sadness.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\anticipation_surprise.txt
+15 - Confiscated Journal Entries (Synthetic)	prototipi_14_termini\anticipation_trust.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\anticipation_trust.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\anticipation_trust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\anticipation_trust.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\anticipation_trust.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\anticipation_trust.txt
+14 - Psychiatric Evaluation (Synthetic)	prototipi_14_termini\anticipation_trust.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\disgust_anger.txt
+6 - Building to Violence	prototipi_14_termini\disgust_anger.txt
+3 - memoir	prototipi_14_termini\disgust_anger.txt
+15 - Confiscated Journal Entries (Synthetic)	prototipi_14_termini\disgust_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\disgust_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\disgust_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\disgust_anticipation.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\disgust_anticipation.txt
+14 - Psychiatric Evaluation (Synthetic)	prototipi_14_termini\disgust_anticipation.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\disgust_fear.txt
+6 - Building to Violence	prototipi_14_termini\disgust_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\disgust_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\disgust_fear.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\disgust_fear.txt
+15 - Confiscated Journal Entries (Synthetic)	prototipi_14_termini\disgust_joy.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\disgust_joy.txt
+14 - Psychiatric Evaluation (Synthetic)	prototipi_14_termini\disgust_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\disgust_joy.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\disgust_sadness.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\disgust_sadness.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\disgust_sadness.txt
+6 - Building to Violence	prototipi_14_termini\disgust_sadness.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\disgust_sadness.txt
+6 - Building to Violence	prototipi_14_termini\disgust_surprise.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\disgust_surprise.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\disgust_trust.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\disgust_trust.txt
+6 - Building to Violence	prototipi_14_termini\disgust_trust.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\disgust_trust.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\disgust_trust.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\fear_anger.txt
+6 - Building to Violence	prototipi_14_termini\fear_anger.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_anger.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_anger.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\fear_anger.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\fear_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\fear_anticipation.txt
+15 - Confiscated Journal Entries (Synthetic)	prototipi_14_termini\fear_anticipation.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_anticipation.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_anticipation.txt
+14 - Psychiatric Evaluation (Synthetic)	prototipi_14_termini\fear_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\fear_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\fear_anticipation.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\fear_anticipation.txt
+14 - Psychiatric Evaluation (Synthetic)	prototipi_14_termini\fear_anticipation.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\fear_disgust.txt
+6 - Building to Violence	prototipi_14_termini\fear_disgust.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_disgust.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_disgust.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\fear_disgust.txt
+15 - Confiscated Journal Entries (Synthetic)	prototipi_14_termini\fear_joy.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\fear_joy.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\fear_joy.txt
+6 - Building to Violence	prototipi_14_termini\fear_joy.txt
+14 - Psychiatric Evaluation (Synthetic)	prototipi_14_termini\fear_joy.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_joy.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_joy.txt
+14 - Psychiatric Evaluation (Synthetic)	prototipi_14_termini\fear_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\fear_joy.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\fear_joy.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\fear_sadness.txt
+6 - Building to Violence	prototipi_14_termini\fear_sadness.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\fear_sadness.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\fear_sadness.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_sadness.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_sadness.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\fear_sadness.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\fear_surprise.txt
+6 - Building to Violence	prototipi_14_termini\fear_surprise.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_surprise.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_surprise.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\fear_surprise.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\fear_trust.txt
+6 - Building to Violence	prototipi_14_termini\fear_trust.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\fear_trust.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\fear_trust.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\fear_trust.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\fear_trust.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\fear_trust.txt
+15 - Confiscated Journal Entries (Synthetic)	prototipi_14_termini\joy_anger.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_anger.txt
+14 - Psychiatric Evaluation (Synthetic)	prototipi_14_termini\joy_anger.txt
+6 - Building to Violence	prototipi_14_termini\joy_anger.txt
+8 - November_1969_sermon	prototipi_14_termini\joy_anger.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\joy_anger.txt
+3 - memoir	prototipi_14_termini\joy_anger.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_anger.txt
+15 - Confiscated Journal Entries (Synthetic)	prototipi_14_termini\joy_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_anticipation.txt
+14 - Psychiatric Evaluation (Synthetic)	prototipi_14_termini\joy_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_anticipation.txt
+15 - Confiscated Journal Entries (Synthetic)	prototipi_14_termini\joy_disgust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_disgust.txt
+14 - Psychiatric Evaluation (Synthetic)	prototipi_14_termini\joy_disgust.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_disgust.txt
+15 - Confiscated Journal Entries (Synthetic)	prototipi_14_termini\joy_fear.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\joy_fear.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_fear.txt
+6 - Building to Violence	prototipi_14_termini\joy_fear.txt
+14 - Psychiatric Evaluation (Synthetic)	prototipi_14_termini\joy_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\joy_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\joy_fear.txt
+14 - Psychiatric Evaluation (Synthetic)	prototipi_14_termini\joy_fear.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_fear.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\joy_fear.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\joy_sadness.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\joy_sadness.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\joy_sadness.txt
+6 - Building to Violence	prototipi_14_termini\joy_sadness.txt
+8 - November_1969_sermon	prototipi_14_termini\joy_sadness.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\joy_sadness.txt
+15 - Confiscated Journal Entries (Synthetic)	prototipi_14_termini\joy_trust.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\joy_trust.txt
+14 - Psychiatric Evaluation (Synthetic)	prototipi_14_termini\joy_trust.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\joy_trust.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\joy_trust.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\joy_trust.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\joy_trust.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\sadness_anger.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\sadness_anger.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\sadness_anger.txt
+6 - Building to Violence	prototipi_14_termini\sadness_anger.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\sadness_anger.txt
+3 - memoir	prototipi_14_termini\sadness_anger.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\sadness_anger.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\sadness_anticipation.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\sadness_anticipation.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\sadness_anticipation.txt
+6 - Building to Violence	prototipi_14_termini\sadness_anticipation.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\sadness_anticipation.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\sadness_disgust.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\sadness_disgust.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\sadness_disgust.txt
+6 - Building to Violence	prototipi_14_termini\sadness_disgust.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\sadness_disgust.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\sadness_fear.txt
+6 - Building to Violence	prototipi_14_termini\sadness_fear.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\sadness_fear.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\sadness_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\sadness_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\sadness_fear.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\sadness_fear.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\sadness_joy.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\sadness_joy.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\sadness_joy.txt
+6 - Building to Violence	prototipi_14_termini\sadness_joy.txt
+8 - November_1969_sermon	prototipi_14_termini\sadness_joy.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\sadness_joy.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\sadness_surprise.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\sadness_surprise.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\sadness_surprise.txt
+6 - Building to Violence	prototipi_14_termini\sadness_surprise.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\sadness_surprise.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\sadness_trust.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\sadness_trust.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\sadness_trust.txt
+6 - Building to Violence	prototipi_14_termini\sadness_trust.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\sadness_trust.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\surprise_anger.txt
+6 - Building to Violence	prototipi_14_termini\surprise_anger.txt
+3 - memoir	prototipi_14_termini\surprise_anger.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\surprise_anticipation.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\surprise_disgust.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\surprise_fear.txt
+6 - Building to Violence	prototipi_14_termini\surprise_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\surprise_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\surprise_fear.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\surprise_fear.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\surprise_sadness.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\surprise_sadness.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\surprise_sadness.txt
+6 - Building to Violence	prototipi_14_termini\surprise_sadness.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\surprise_sadness.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\surprise_trust.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\surprise_trust.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\surprise_trust.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\trust_anger.txt
+6 - Building to Violence	prototipi_14_termini\trust_anger.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\trust_anger.txt
+3 - memoir	prototipi_14_termini\trust_anger.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\trust_anger.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\trust_anger.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\trust_anger.txt
+15 - Confiscated Journal Entries (Synthetic)	prototipi_14_termini\trust_anticipation.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\trust_anticipation.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\trust_anticipation.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\trust_anticipation.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\trust_anticipation.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\trust_anticipation.txt
+14 - Psychiatric Evaluation (Synthetic)	prototipi_14_termini\trust_anticipation.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\trust_disgust.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\trust_disgust.txt
+6 - Building to Violence	prototipi_14_termini\trust_disgust.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\trust_disgust.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\trust_disgust.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\trust_fear.txt
+6 - Building to Violence	prototipi_14_termini\trust_fear.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\trust_fear.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\trust_fear.txt
+9 - 1970_Trial_Testimony	prototipi_14_termini\trust_fear.txt
+4 - The Truth about Primitive Life	prototipi_14_termini\trust_fear.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\trust_fear.txt
+15 - Confiscated Journal Entries (Synthetic)	prototipi_14_termini\trust_joy.txt
+11 - (synthetic_data)My_Twisted_World:_College_Hopes	prototipi_14_termini\trust_joy.txt
+14 - Psychiatric Evaluation (Synthetic)	prototipi_14_termini\trust_joy.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\trust_joy.txt
+10 - (synthetic_data)Court_Statements_&_Letters	prototipi_14_termini\trust_joy.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\trust_joy.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\trust_joy.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\trust_sadness.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\trust_sadness.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\trust_sadness.txt
+6 - Building to Violence	prototipi_14_termini\trust_sadness.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\trust_sadness.txt
+16 - Courtroom Testimony (Synthetic)	prototipi_14_termini\trust_surprise.txt
+12 - Letter to the Press (Synthetic)	prototipi_14_termini\trust_surprise.txt
+13 - Police Confession Tape (Synthetic)	prototipi_14_termini\trust_surprise.txt
